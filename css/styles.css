@@ -106,8 +106,8 @@ body {
     flex-direction: row;
     align-items: flex-start;
     padding: 16px 32px;
-        background: #4D5AE5;
-        color: #FFFFFF;
+    background: #4D5AE5;
+    color: #FFFFFF;
 }
 
 .portfolio-hero-btn {
